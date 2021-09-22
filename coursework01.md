@@ -19,3 +19,4 @@ I have an fantastic idea
 *ahm
 *yeass
 
+That's cool
